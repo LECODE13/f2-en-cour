@@ -1,0 +1,27 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+form{
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	display: flex;
+}
+
+
+.front 
+{
+	margin-left:800px;
+	color: blue;
+float: right;
+}
+
+.back 
+{
+	margin-left:10px;
+	color:#000;
+float: right;
+
+}
